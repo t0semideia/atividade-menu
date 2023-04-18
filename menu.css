@@ -2,3 +2,7 @@
     overflow: hidden;
     background-color: #123;
 }
+
+.content {
+    padding: 16px;
+}
