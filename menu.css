@@ -1,8 +1,15 @@
+body {
+    margin: 0;
+    font-size:28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
 #navbar{
     overflow: hidden;
     background-color: #123;
 }
+#navbar a{
 
+}
 .content {
     padding: 16px;
 }
