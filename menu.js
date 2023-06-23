@@ -4,7 +4,7 @@ window.onload = function () {
     window.onscroll = function() { myFunction(navbar, sticky) };
 }
 
-function myFunction(navbar, stickys){
+function myFunction(navbar, sticky){
     if(window.pageYOffset >= sticky){
         navbar.classList.add("sticky");
     }else{
